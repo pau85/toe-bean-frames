@@ -1,0 +1,23 @@
+{
+  "name": "toe-bean-frames",
+  "version": "1.0.0",
+  "description": "toe bean frames",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pau85/toe-bean-frames.git"
+  },
+  "keywords": [
+    "toebean",
+    "frames"
+  ],
+  "author": "Paulette Melchiori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pau85/toe-bean-frames/issues"
+  },
+  "homepage": "https://github.com/pau85/toe-bean-frames#readme"
+}
